@@ -1,0 +1,19 @@
+1. download herd
+
+2. install laravel by "laravel new {name}"
+
+3. no starter kit
+
+4. use pest starter kit
+
+5. git and db configuration
+
+6. install laravel blade extension
+
+7.press F1 -> settings -> emmet -> add lang item(item=blade , value=html)
+
+8. npm install
+
+9. npm run build 
+
+10. composer run dev
